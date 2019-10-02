@@ -1,5 +1,5 @@
 # AdminPro 
-Este proyecto es realizado desde el curso de Fernando Herrera, sobre una aplicacion de un Hospital, teniendo como backend otro proyecto hecho node.js y mongo db. Este ultimo proyecto se debe correr conjuntamente.
+Este proyecto sobre una aplicacion de un Hospital, teniendo como backend otro proyecto hecho node.js y mongo db. Este ultimo proyecto se debe correr conjuntamente.
 
 ## Development 
 
